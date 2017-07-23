@@ -1,0 +1,377 @@
+[15-Jul-2017 08:44:06 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ubuntu/workspace/signup/view/dogout_signup.php on line 49
+[15-Jul-2017 08:44:17 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/ubuntu/workspace/signup/view/dogout_signup.php on line 52
+[15-Jul-2017 13:09:10 UTC] PHP Warning:  require(../signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 13:09:10 UTC] PHP Stack trace:
+[15-Jul-2017 13:09:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:09:10 UTC] PHP Fatal error:  require(): Failed opening required '../signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 13:09:10 UTC] PHP Stack trace:
+[15-Jul-2017 13:09:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:10:21 UTC] PHP Warning:  require(/signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 13:10:21 UTC] PHP Stack trace:
+[15-Jul-2017 13:10:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:10:21 UTC] PHP Fatal error:  require(): Failed opening required '/signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 13:10:21 UTC] PHP Stack trace:
+[15-Jul-2017 13:10:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:20:16 UTC] PHP Warning:  require(/signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 13:20:16 UTC] PHP Stack trace:
+[15-Jul-2017 13:20:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:20:16 UTC] PHP Fatal error:  require(): Failed opening required '/signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 13:20:16 UTC] PHP Stack trace:
+[15-Jul-2017 13:20:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:46:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[15-Jul-2017 13:46:14 UTC] PHP Stack trace:
+[15-Jul-2017 13:46:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:46:14 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[15-Jul-2017 13:46:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[15-Jul-2017 13:46:14 UTC] PHP Stack trace:
+[15-Jul-2017 13:46:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:46:14 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[15-Jul-2017 13:46:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[15-Jul-2017 13:46:14 UTC] PHP Stack trace:
+[15-Jul-2017 13:46:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:46:14 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[15-Jul-2017 13:46:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 13:46:14 UTC] PHP Stack trace:
+[15-Jul-2017 13:46:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:46:14 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 13:46:14 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 13:46:14 UTC] PHP Stack trace:
+[15-Jul-2017 13:46:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 13:46:14 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:46:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[15-Jul-2017 14:46:27 UTC] PHP Stack trace:
+[15-Jul-2017 14:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:46:27 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[15-Jul-2017 14:46:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[15-Jul-2017 14:46:27 UTC] PHP Stack trace:
+[15-Jul-2017 14:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:46:27 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[15-Jul-2017 14:46:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[15-Jul-2017 14:46:27 UTC] PHP Stack trace:
+[15-Jul-2017 14:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:46:27 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[15-Jul-2017 14:46:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:46:27 UTC] PHP Stack trace:
+[15-Jul-2017 14:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:46:27 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:46:27 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:46:27 UTC] PHP Stack trace:
+[15-Jul-2017 14:46:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:46:27 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:47:16 UTC] PHP Warning:  require(../signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:16 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:16 UTC] PHP Fatal error:  require(): Failed opening required '../signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:16 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:18 UTC] PHP Warning:  require(../signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:18 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:18 UTC] PHP Fatal error:  require(): Failed opening required '../signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:18 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:26 UTC] PHP Warning:  require(../signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:26 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:26 UTC] PHP Fatal error:  require(): Failed opening required '../signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:26 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:34 UTC] PHP Warning:  require(./signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:34 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:34 UTC] PHP Fatal error:  require(): Failed opening required './signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:34 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:40 UTC] PHP Warning:  require(/signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:40 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:40 UTC] PHP Fatal error:  require(): Failed opening required '/signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:40 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:43 UTC] PHP Warning:  require(/signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:43 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:43 UTC] PHP Fatal error:  require(): Failed opening required '/signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:43 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:51 UTC] PHP Warning:  require(/signup/model/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:51 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:47:51 UTC] PHP Fatal error:  require(): Failed opening required '/signup/model/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:47:51 UTC] PHP Stack trace:
+[15-Jul-2017 14:47:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:49:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[15-Jul-2017 14:49:19 UTC] PHP Stack trace:
+[15-Jul-2017 14:49:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:49:19 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[15-Jul-2017 14:49:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[15-Jul-2017 14:49:19 UTC] PHP Stack trace:
+[15-Jul-2017 14:49:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:49:19 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[15-Jul-2017 14:49:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[15-Jul-2017 14:49:19 UTC] PHP Stack trace:
+[15-Jul-2017 14:49:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:49:19 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[15-Jul-2017 14:49:19 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:49:19 UTC] PHP Stack trace:
+[15-Jul-2017 14:49:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:49:19 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:49:19 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:49:19 UTC] PHP Stack trace:
+[15-Jul-2017 14:49:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:49:19 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:51:43 UTC] PHP Warning:  require(../users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:51:43 UTC] PHP Stack trace:
+[15-Jul-2017 14:51:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:51:43 UTC] PHP Fatal error:  require(): Failed opening required '../users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:51:43 UTC] PHP Stack trace:
+[15-Jul-2017 14:51:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:51:50 UTC] PHP Warning:  require(../users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:51:50 UTC] PHP Stack trace:
+[15-Jul-2017 14:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:51:50 UTC] PHP Fatal error:  require(): Failed opening required '../users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:51:50 UTC] PHP Stack trace:
+[15-Jul-2017 14:51:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:52:16 UTC] PHP Warning:  require(../signup/view/dogout_signup.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:52:16 UTC] PHP Stack trace:
+[15-Jul-2017 14:52:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:52:16 UTC] PHP Fatal error:  require(): Failed opening required '../signup/view/dogout_signup.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:52:16 UTC] PHP Stack trace:
+[15-Jul-2017 14:52:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:52:28 UTC] PHP Warning:  require(/signup/view/dogout_signup.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:52:28 UTC] PHP Stack trace:
+[15-Jul-2017 14:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:52:28 UTC] PHP Fatal error:  require(): Failed opening required '/signup/view/dogout_signup.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:52:28 UTC] PHP Stack trace:
+[15-Jul-2017 14:52:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:52:29 UTC] PHP Warning:  require(/signup/view/dogout_signup.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:52:29 UTC] PHP Stack trace:
+[15-Jul-2017 14:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:52:29 UTC] PHP Fatal error:  require(): Failed opening required '/signup/view/dogout_signup.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[15-Jul-2017 14:52:29 UTC] PHP Stack trace:
+[15-Jul-2017 14:52:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:55:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[15-Jul-2017 14:55:40 UTC] PHP Stack trace:
+[15-Jul-2017 14:55:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:55:40 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[15-Jul-2017 14:55:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[15-Jul-2017 14:55:40 UTC] PHP Stack trace:
+[15-Jul-2017 14:55:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:55:40 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[15-Jul-2017 14:55:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[15-Jul-2017 14:55:40 UTC] PHP Stack trace:
+[15-Jul-2017 14:55:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:55:40 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[15-Jul-2017 14:55:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:55:40 UTC] PHP Stack trace:
+[15-Jul-2017 14:55:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:55:40 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:55:40 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:55:40 UTC] PHP Stack trace:
+[15-Jul-2017 14:55:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:55:40 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:56:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[15-Jul-2017 14:56:09 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:09 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[15-Jul-2017 14:56:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[15-Jul-2017 14:56:09 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:09 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[15-Jul-2017 14:56:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[15-Jul-2017 14:56:09 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:09 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[15-Jul-2017 14:56:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:56:09 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:09 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:56:09 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:56:09 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:09 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:56:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[15-Jul-2017 14:56:22 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:22 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[15-Jul-2017 14:56:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[15-Jul-2017 14:56:22 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:22 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[15-Jul-2017 14:56:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[15-Jul-2017 14:56:22 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:22 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[15-Jul-2017 14:56:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:56:22 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:22 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[15-Jul-2017 14:56:22 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[15-Jul-2017 14:56:22 UTC] PHP Stack trace:
+[15-Jul-2017 14:56:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[15-Jul-2017 14:56:22 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 01:18:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[16-Jul-2017 01:18:06 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:06 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[16-Jul-2017 01:18:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[16-Jul-2017 01:18:06 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:06 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[16-Jul-2017 01:18:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[16-Jul-2017 01:18:06 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:06 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[16-Jul-2017 01:18:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[16-Jul-2017 01:18:06 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:06 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 01:18:06 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[16-Jul-2017 01:18:06 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:06 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 01:18:07 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[16-Jul-2017 01:18:07 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:07 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[16-Jul-2017 01:18:07 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[16-Jul-2017 01:18:07 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:07 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[16-Jul-2017 01:18:07 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[16-Jul-2017 01:18:07 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:07 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[16-Jul-2017 01:18:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[16-Jul-2017 01:18:07 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:07 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 01:18:07 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[16-Jul-2017 01:18:07 UTC] PHP Stack trace:
+[16-Jul-2017 01:18:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 01:18:07 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 05:18:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[16-Jul-2017 05:18:45 UTC] PHP Stack trace:
+[16-Jul-2017 05:18:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:18:45 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[16-Jul-2017 05:18:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[16-Jul-2017 05:18:45 UTC] PHP Stack trace:
+[16-Jul-2017 05:18:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:18:45 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[16-Jul-2017 05:18:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[16-Jul-2017 05:18:45 UTC] PHP Stack trace:
+[16-Jul-2017 05:18:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:18:45 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[16-Jul-2017 05:18:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[16-Jul-2017 05:18:45 UTC] PHP Stack trace:
+[16-Jul-2017 05:18:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:18:45 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 05:18:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[16-Jul-2017 05:18:45 UTC] PHP Stack trace:
+[16-Jul-2017 05:18:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:18:45 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 05:20:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 12
+[16-Jul-2017 05:20:44 UTC] PHP Stack trace:
+[16-Jul-2017 05:20:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:20:44 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:12
+[16-Jul-2017 05:20:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 13
+[16-Jul-2017 05:20:44 UTC] PHP Stack trace:
+[16-Jul-2017 05:20:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:20:44 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:13
+[16-Jul-2017 05:20:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 14
+[16-Jul-2017 05:20:44 UTC] PHP Stack trace:
+[16-Jul-2017 05:20:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:20:44 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:14
+[16-Jul-2017 05:20:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[16-Jul-2017 05:20:44 UTC] PHP Stack trace:
+[16-Jul-2017 05:20:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:20:44 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 05:20:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 16
+[16-Jul-2017 05:20:44 UTC] PHP Stack trace:
+[16-Jul-2017 05:20:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:20:44 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:16
+[16-Jul-2017 05:21:33 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 32
+[16-Jul-2017 05:21:33 UTC] PHP Stack trace:
+[16-Jul-2017 05:21:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:21:33 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:32
+[16-Jul-2017 05:21:33 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 33
+[16-Jul-2017 05:21:33 UTC] PHP Stack trace:
+[16-Jul-2017 05:21:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:21:33 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:33
+[16-Jul-2017 05:21:33 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 34
+[16-Jul-2017 05:21:33 UTC] PHP Stack trace:
+[16-Jul-2017 05:21:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:21:33 UTC] PHP   2. mysqli_real_escape_string() /home/ubuntu/workspace/signup/view/signup_confirm.php:34
+[16-Jul-2017 05:21:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 36
+[16-Jul-2017 05:21:33 UTC] PHP Stack trace:
+[16-Jul-2017 05:21:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:21:33 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/signup/view/signup_confirm.php:36
+[16-Jul-2017 05:21:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 36
+[16-Jul-2017 05:21:33 UTC] PHP Stack trace:
+[16-Jul-2017 05:21:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 05:21:33 UTC] PHP   2. mysqli_error() /home/ubuntu/workspace/signup/view/signup_confirm.php:36
+[16-Jul-2017 05:58:40 UTC] PHP Parse error:  syntax error, unexpected 'username' (T_STRING) in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 25
+[16-Jul-2017 06:03:35 UTC] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 25
+[16-Jul-2017 07:24:46 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 25
+[16-Jul-2017 07:24:46 UTC] PHP Stack trace:
+[16-Jul-2017 07:24:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 07:30:37 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 25
+[16-Jul-2017 07:30:37 UTC] PHP Stack trace:
+[16-Jul-2017 07:30:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 07:30:51 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 25
+[16-Jul-2017 07:30:51 UTC] PHP Stack trace:
+[16-Jul-2017 07:30:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 07:30:57 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 25
+[16-Jul-2017 07:30:57 UTC] PHP Stack trace:
+[16-Jul-2017 07:30:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 07:33:08 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 25
+[16-Jul-2017 07:33:08 UTC] PHP Stack trace:
+[16-Jul-2017 07:33:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 07:55:53 UTC] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 25
+[16-Jul-2017 07:55:53 UTC] PHP Stack trace:
+[16-Jul-2017 07:55:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:03:19 UTC] PHP Warning:  require(../signup/view/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:03:19 UTC] PHP Stack trace:
+[16-Jul-2017 08:03:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:03:19 UTC] PHP Fatal error:  require(): Failed opening required '../signup/view/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:03:19 UTC] PHP Stack trace:
+[16-Jul-2017 08:03:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:03:31 UTC] PHP Warning:  require(..view/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:03:31 UTC] PHP Stack trace:
+[16-Jul-2017 08:03:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:03:31 UTC] PHP Fatal error:  require(): Failed opening required '..view/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:03:31 UTC] PHP Stack trace:
+[16-Jul-2017 08:03:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:04:06 UTC] PHP Warning:  require(..users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:04:06 UTC] PHP Stack trace:
+[16-Jul-2017 08:04:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:04:06 UTC] PHP Fatal error:  require(): Failed opening required '..users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:04:06 UTC] PHP Stack trace:
+[16-Jul-2017 08:04:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:07:09 UTC] PHP Warning:  require(../users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:07:09 UTC] PHP Stack trace:
+[16-Jul-2017 08:07:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:07:09 UTC] PHP Fatal error:  require(): Failed opening required '../users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:07:09 UTC] PHP Stack trace:
+[16-Jul-2017 08:07:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:07:46 UTC] PHP Warning:  require(/signup/view/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:07:46 UTC] PHP Stack trace:
+[16-Jul-2017 08:07:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:07:46 UTC] PHP Fatal error:  require(): Failed opening required '/signup/view/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:07:46 UTC] PHP Stack trace:
+[16-Jul-2017 08:07:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:08:18 UTC] PHP Warning:  require(Location: /signup/view/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:08:18 UTC] PHP Stack trace:
+[16-Jul-2017 08:08:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:08:18 UTC] PHP Fatal error:  require(): Failed opening required 'Location: /signup/view/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:08:18 UTC] PHP Stack trace:
+[16-Jul-2017 08:08:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:11:10 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:11:32 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:11:39 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:11:58 UTC] PHP Warning:  require(/home/ubuntu/workspace/signup/view/signup/view/users_db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:11:58 UTC] PHP Stack trace:
+[16-Jul-2017 08:11:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0
+[16-Jul-2017 08:11:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/signup/view/signup/view/users_db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/signup/view/signup_confirm.php on line 3
+[16-Jul-2017 08:11:58 UTC] PHP Stack trace:
+[16-Jul-2017 08:11:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/signup/view/signup_confirm.php:0

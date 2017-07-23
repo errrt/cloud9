@@ -1,0 +1,9 @@
+#entry{
+    text-align:center;
+}
+#entry_logo{
+    font-size:110px;
+}
+#entry_option{
+    display: inline-flex;
+}
